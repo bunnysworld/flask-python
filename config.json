@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blogspot",
+        "prod_uri":"mysql://root:@localhost/blogspot",
+        "blog_name":"Blogspot",
+        "fb_url":"https://facebook.com/blogspot",
+        "twt_url":"https://twitter.com/blogspot",
+        "git_url":"https://github.com/blogspot",
+        "gmail-user":"yourgmailusername@gmail.com",
+        "gmail-pass":"yourgmailpassword",
+        "admin-user":"admin",
+        "admin-pass":"admin",
+        "no_of_posts":2,
+        "upload_location":"C:\\Users\\Akash\\Desktop\\flask\\static"                        // give location according to your system req.
+    }
+}
